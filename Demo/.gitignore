@@ -1,0 +1,14 @@
+# Python 虚拟环境与缓存
+.venv/
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# 密钥（绝对不能提交）
+.env
+
+# 工具与产出物已移至仓库根目录（由根 .gitignore 管理）
+# MXTest/tools/   —— 便携版 ffmpeg 等
+# MXTest/artifacts/ —— workspace、deliverables、runs

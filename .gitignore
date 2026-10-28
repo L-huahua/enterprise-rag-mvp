@@ -1,0 +1,9 @@
+# 便携工具（ffmpeg 等），不入库
+tools/
+
+# 运行产出物（workspace / deliverables / runs），不入库
+artifacts/
+
+# 系统/临时文件
+Thumbs.db
+Desktop.ini
